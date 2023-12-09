@@ -4,7 +4,7 @@
 In this project we gave a webpage that meets accesibility standards. We changed and strcutured div tags to semantic tags. Then we added alt attributes to images and icons. Finally we added a title element for a descriptive title of the webpage.
 
 ## Repository
-Link to deployed code:  https://github.com/freddylau815/horiseon_portfolio
+Link to deployed code:  https://freddylau815.github.io/horiseon_portfolio/
 
 ## Technologies
 
